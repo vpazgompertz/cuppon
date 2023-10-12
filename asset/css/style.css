@@ -1,0 +1,46 @@
+body{
+    Font-family: 'Roboto' sans-serif;
+}
+
+.container-fluid {
+    background-color: #28A745;
+}
+.navbar {
+    padding-top: 0 !important;
+}
+.navbar-brand img{
+    width: 86px;
+    height: 25px;
+}
+.card-img-top{
+    height:180px;
+}
+.card-title{
+    color: #212529;
+    font-weight: 300;
+}
+.card-text{
+    color: #707070;
+    font-size: 16px;
+    font-weight: 300;
+}
+.text{
+	color: #707070;
+    font-size: 13px;
+    font-weight: 300;
+}
+.text-muted{
+    font-size: 16px;
+    font-weight: 300;
+}
+.text-success{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+h2{
+    font-size: 21px;
+}
+footer{
+    font-size: 16px;
+}
